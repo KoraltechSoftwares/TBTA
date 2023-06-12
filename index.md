@@ -5,6 +5,7 @@ TBTA gives outmost importance to your privacy.Please take a minute to review the
 Required Access Permissions
 
 1. To be able to read SMS for OTP verification.
+2. To be able to send Notifications for updates.
 
 What Information We Collect
 
